@@ -1,7 +1,3 @@
-Here’s the text from the photo you uploaded:
-
----
-
 👋 Hi, I'm Avinash R  
 
 💻 Aspiring Java Full Stack Developer | B.Sc. Computer Science Graduate  
